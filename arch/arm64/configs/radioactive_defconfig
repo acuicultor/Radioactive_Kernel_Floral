@@ -2,6 +2,7 @@
 # Radioactive extra stuff
 #
 CONFIG_TOUCHSCREEN_FTS=y
+CONFIG_LD_LLD=y
 
 #
 # Qualcomm Atheros CLD WLAN module
