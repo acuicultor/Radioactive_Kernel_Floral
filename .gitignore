@@ -128,3 +128,13 @@ kernel/configs/android-*.cfg
 
 # Qualcomm out-of-tree audio drivers
 /techpack/audio
+
+# Kernel compilation output directory
+out/
+
+# Wireguard
+net/wireguard/
+
+# Build script and changelog generator
+build.sh
+changelog.sh
