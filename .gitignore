@@ -134,3 +134,13 @@ kernel/configs/android-*.cfg
 #Ignoring Android.bp link file
 #
 Android.bp
+
+# Kernel compilation output directory
+out/
+
+# Wireguard
+net/wireguard/
+
+# Build script and changelog generator
+build.sh
+changelog.sh
